@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on web development internship<br>I'm looking for internships and job opportunities<br>I'm currently learning Frontend with MERN<br>ask me about HTML CSS i'd make sure you get it correctly<br>Fun fact I am good at sketching too
+I'm currently working on web development <br>I'm looking for internships and job opportunities<br>I'm currently learning Frontend with MERN<br>ask me about HTML CSS i'd make sure you get it correctly<br>Fun fact I am good at sketching too
 
 
 ## 🌐 Socials:
